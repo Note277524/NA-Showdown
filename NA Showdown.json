@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1794204964,
+	"Version": 1794370848,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -17,7 +17,6 @@
 				"7",
 				"258",
 				"11",
-				"13",
 				"16",
 				"17",
 				"18",
@@ -33,6 +32,7 @@
 				"28",
 				"286",
 				"288",
+				"312",
 				"33",
 				"108",
 				"303",
@@ -86,6 +86,7 @@
 				"304",
 				"128",
 				"254",
+				"129",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -172,6 +173,7 @@
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"13",
 				"21",
 				"34",
 				"38",
@@ -213,6 +215,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"13",
 				"21",
 				"24",
 				"246",
@@ -255,6 +258,7 @@
 				"1",
 				"300",
 				"8",
+				"13",
 				"21",
 				"24",
 				"246",
@@ -302,12 +306,11 @@
 			"Name": "Tier 5",
 			"SurvivorIndvPerkBans": [
 				"1",
-				"300",
 				"8",
+				"13",
 				"21",
 				"24",
 				"246",
-				"27",
 				"273",
 				"34",
 				"38",
@@ -346,13 +349,19 @@
 				"253",
 				"118",
 				"121",
-				"124",
 				"127",
 				"36"
 			],
 			"KillerIndvPerkBans": [
 				"181"
 			],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "",
+			"SurvivorIndvPerkBans": [],
+			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		}
@@ -587,7 +596,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"33",
@@ -605,6 +614,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"9",
 				"53"
 			],
 			"SurvivorComboPerkBans": [],
@@ -614,7 +624,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				37
+				37,
+				39,
+				38,
+				24
 			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
@@ -649,7 +662,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"14"
@@ -764,7 +777,8 @@
 				10,
 				15,
 				5,
-				0
+				0,
+				24
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1802,7 +1816,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"9"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
