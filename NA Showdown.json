@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1794370848,
+	"Version": 1794460051,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -59,6 +59,7 @@
 				"82",
 				"83",
 				"84",
+				"85",
 				"86",
 				"88",
 				"90",
@@ -96,6 +97,7 @@
 				"136",
 				"245",
 				"138",
+				"315",
 				"147",
 				"149",
 				"150",
@@ -106,6 +108,7 @@
 				"244",
 				"168",
 				"169",
+				"283",
 				"171",
 				"173",
 				"174",
@@ -119,8 +122,10 @@
 				"185",
 				"186",
 				"265",
+				"194",
 				"256",
 				"195",
+				"198",
 				"161",
 				"204",
 				"278",
@@ -137,6 +142,7 @@
 				"235",
 				"238",
 				"293",
+				"241",
 				"242"
 			],
 			"SurvivorComboPerkBans": [
@@ -149,7 +155,12 @@
 					"36"
 				]
 			],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"226",
+					"159"
+				]
+			]
 		},
 		{
 			"Name": "Tier 1",
@@ -160,6 +171,7 @@
 				"132",
 				"170",
 				"181",
+				"189",
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
@@ -173,6 +185,7 @@
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"9",
 				"13",
 				"21",
 				"34",
@@ -215,6 +228,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"9",
 				"13",
 				"21",
 				"24",
@@ -258,6 +272,7 @@
 				"1",
 				"300",
 				"8",
+				"9",
 				"13",
 				"21",
 				"24",
@@ -307,6 +322,7 @@
 			"SurvivorIndvPerkBans": [
 				"1",
 				"8",
+				"9",
 				"13",
 				"21",
 				"24",
@@ -611,11 +627,13 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"157"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"9",
-				"53"
+				"53",
+				"58"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -676,11 +694,22 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317",
+				"298"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"13",
+				"34",
 				"38",
+				"50",
+				"58",
+				"68",
+				"69",
 				"80",
+				"95",
+				"118",
 				"121",
 				"127",
 				"36"
@@ -756,10 +785,17 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"184",
-				"220"
+				"317",
+				"219",
+				"220",
+				"249"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58",
+				"68",
+				"118"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -824,7 +860,7 @@
 		},
 		{
 			"Name": "The Shape",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				32
@@ -838,7 +874,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -851,7 +889,9 @@
 				86,
 				94
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				28
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -869,14 +909,15 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
-				5,
-				2,
 				0,
-				1
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -944,7 +985,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "Cross-Ping Balancing:\nSloppy Butcher and Rapid Brutality are banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				54,
@@ -963,7 +1004,9 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
-				"53"
+				"319",
+				"53",
+				"111"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -997,10 +1040,8 @@
 				}
 			},
 			"SurvivorOfferings": [
-				5,
 				2,
-				0,
-				1
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1008,7 +1049,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "Cross-Ping Balancing:\nUnbreakable is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1027,6 +1068,10 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"27",
+				"307",
+				"58",
+				"65",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1093,7 +1138,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"298"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"306",
@@ -1123,6 +1170,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"21",
 				"73",
@@ -1164,11 +1212,13 @@
 				"46",
 				"261",
 				"307",
+				"101",
 				"47",
 				"48",
 				"308",
 				"50",
 				"51",
+				"319",
 				"294",
 				"262",
 				"53",
@@ -1183,6 +1233,7 @@
 				"289",
 				"61",
 				"62",
+				"313",
 				"63",
 				"64",
 				"65",
@@ -1222,6 +1273,7 @@
 				"296",
 				"97",
 				"98",
+				"320",
 				"99",
 				"100",
 				"92",
@@ -1260,6 +1312,7 @@
 				"127",
 				"128",
 				"254",
+				"314",
 				"36",
 				"129",
 				"130"
@@ -1306,7 +1359,7 @@
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "Cross-Ping Balancing:\nSloppy Butcher and Rapid Brutality are banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				33,
@@ -1321,13 +1374,17 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"118"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"124"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -1336,7 +1393,6 @@
 				196
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -1344,12 +1400,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1392,7 +1443,10 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"27",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1439,7 +1493,7 @@
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1453,7 +1507,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"112"
@@ -1511,7 +1567,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				8,
@@ -1526,18 +1582,23 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"13",
 				"246",
 				"38",
 				"58",
 				"63",
 				"68",
+				"76",
 				"78",
 				"80",
 				"115",
+				"121",
 				"124",
 				"127",
 				"36"
@@ -1619,10 +1680,14 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"4"
+				"4",
+				"319",
+				"111"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1681,9 +1746,13 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"27",
+				"307",
 				"53",
 				"112"
 			],
@@ -1741,7 +1810,7 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "Cross-Ping Balancing:\nSloppy Butcher and Rapid Brutality are banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				20
@@ -1755,9 +1824,14 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"319",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1800,7 +1874,7 @@
 		},
 		{
 			"Name": "The Demogorgon",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"54"
@@ -1861,7 +1935,7 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0,
@@ -1932,7 +2006,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "Cross-Ping Balancing:\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				8,
@@ -2076,7 +2150,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				4,
