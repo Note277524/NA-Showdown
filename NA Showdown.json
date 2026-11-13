@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1794460051,
+	"Version": 1794558620,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1512,7 +1512,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"58"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1527,7 +1527,6 @@
 				238
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -1535,12 +1534,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1623,7 +1617,6 @@
 			],
 			"ItemWhitelist": [
 				10,
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -1631,12 +1624,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -1953,7 +1941,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"65"
+				"307"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1966,7 +1954,6 @@
 				358
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -1974,12 +1961,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2248,7 +2230,7 @@
 		},
 		{
 			"Name": "The Twins",
-			"KillerNotes": "Cross-Ping Balancing:\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				4,
@@ -2473,7 +2455,7 @@
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "Cross-Ping Balancing:\nSloppy Butcher and Rapid Brutality are banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				33,
@@ -2843,7 +2825,7 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				34
@@ -2857,7 +2839,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2906,7 +2890,7 @@
 		},
 		{
 			"Name": "The Mastermind",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0,
@@ -2924,6 +2908,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"58",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2937,7 +2922,6 @@
 				578
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -2945,12 +2929,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3114,7 +3093,7 @@
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "Cross-Ping Balancing:\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"52"
@@ -3128,9 +3107,17 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"39",
+				"44",
+				"50",
+				"95",
+				"92"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3328,11 +3315,10 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				8,
-				49
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -3347,7 +3333,9 @@
 				"200"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3394,7 +3382,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"33"
@@ -3408,7 +3396,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"266"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3455,7 +3445,7 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"42"
@@ -3471,15 +3461,20 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"297"
+				"317"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"246",
-				"50"
+				"307",
+				"50",
+				"58",
+				"118"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"43"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -3490,7 +3485,6 @@
 				738
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -3498,12 +3492,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3530,7 +3519,7 @@
 		},
 		{
 			"Name": "The Houndmaster",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0,
@@ -3545,7 +3534,10 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"266",
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3595,7 +3587,7 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "Cross-Ping Balancing:\nEruption is banned.\n1 Brown Medkit with no addons is allowed.",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"49"
@@ -3611,10 +3603,14 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"297"
+				"317"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58",
+				"70",
+				"95"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3629,7 +3625,6 @@
 				778
 			],
 			"ItemWhitelist": [
-				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -3637,12 +3632,7 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3873,10 +3863,12 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
