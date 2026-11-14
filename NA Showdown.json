@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1794558620,
+	"Version": 1794650153,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -771,8 +771,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0,
-				33
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -878,7 +877,9 @@
 				"317"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -988,8 +989,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				54,
-				0
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -1362,8 +1362,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				33,
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -1564,8 +1563,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				8,
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1722,8 +1720,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				4,
-				8
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -1926,8 +1923,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0,
-				54
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1938,7 +1934,9 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"307"
@@ -1991,8 +1989,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				8,
-				4
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2135,8 +2132,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				4,
-				31
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2150,6 +2146,7 @@
 			"KillerIndvPerkBans": [
 				"142",
 				"189",
+				"317",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -2233,8 +2230,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				4,
-				14
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2458,8 +2454,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				33,
-				8
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2893,8 +2888,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0,
-				49
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -3522,8 +3516,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0,
-				54
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -3871,9 +3864,14 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"307",
+				"50"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
