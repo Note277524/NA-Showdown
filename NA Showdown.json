@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1795060563,
+	"Version": 1795077067,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -172,15 +172,11 @@
 				"170",
 				"181",
 				"189",
-				"151"
+				"151",
+				"250"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 2",
@@ -217,12 +213,7 @@
 					"92"
 				]
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 3",
@@ -811,7 +802,6 @@
 			],
 			"ItemWhitelist": [
 				10,
-				15,
 				5,
 				0,
 				24
@@ -835,11 +825,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
