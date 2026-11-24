@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1795077067,
+	"Version": 1795492274,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -623,6 +623,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"319",
 				"53",
 				"58",
 				"68"
@@ -639,7 +640,9 @@
 				38,
 				24
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				28
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -865,6 +868,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"319",
 				"58"
 			],
 			"SurvivorComboPerkBans": [],
@@ -993,6 +997,7 @@
 				"26",
 				"319",
 				"53",
+				"58",
 				"111"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1365,6 +1370,8 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"319",
+				"58",
 				"118"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1431,6 +1438,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"27",
+				"319",
 				"58"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1446,7 +1454,9 @@
 				217,
 				218
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				28
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1464,7 +1474,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1813,7 +1826,9 @@
 			"IndividualAddonBans": [
 				318
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				28
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1831,7 +1846,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -1863,7 +1881,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"9"
+				"9",
+				"319",
+				"58"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1924,7 +1944,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"307"
+				"307",
+				"319",
+				"58"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2454,7 +2476,9 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"101",
+				"319",
 				"53",
+				"58",
 				"70"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2823,7 +2847,10 @@
 				"317"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"319",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2837,7 +2864,9 @@
 				557,
 				558
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				28
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -2855,7 +2884,10 @@
 					"Addons": []
 				},
 				"Map": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				}
 			},
 			"SurvivorOfferings": [
@@ -3379,7 +3411,10 @@
 				"266"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"319",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3517,7 +3552,10 @@
 				"317"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"319",
+				"58"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3856,6 +3894,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"132",
 				"317"
 			],
 			"KillerComboPerkBans": [],
@@ -3869,7 +3908,16 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				846,
+				853,
+				854,
+				855,
+				856,
+				851,
+				845,
+				857
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3894,8 +3942,13 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Judgment",
