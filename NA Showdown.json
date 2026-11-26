@@ -1,6 +1,6 @@
 {
 	"Name": "NA Showdown",
-	"Version": 1795492274,
+	"Version": 1795679487,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -16,6 +16,7 @@
 				"52",
 				"7",
 				"258",
+				"324",
 				"11",
 				"16",
 				"17",
@@ -67,6 +68,7 @@
 				"99",
 				"100",
 				"103",
+				"325",
 				"275",
 				"105",
 				"106",
@@ -83,6 +85,7 @@
 				"119",
 				"120",
 				"122",
+				"326",
 				"126",
 				"304",
 				"128",
@@ -106,6 +109,7 @@
 				"155",
 				"163",
 				"244",
+				"321",
 				"168",
 				"169",
 				"283",
@@ -122,8 +126,10 @@
 				"185",
 				"186",
 				"265",
+				"322",
 				"194",
 				"256",
+				"323",
 				"195",
 				"198",
 				"161",
@@ -4000,6 +4006,73 @@
 			},
 			"SurvivorOfferings": [],
 			"KillerOfferings": []
+		},
+		{
+			"Name": "The Terrifier",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"54"
+			],
+			"BalanceTiers": [
+				0,
+				3
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				3
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				897,
+				893,
+				894,
+				895,
+				889,
+				886
+			],
+			"ItemWhitelist": [
+				0
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				2,
+				3
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
